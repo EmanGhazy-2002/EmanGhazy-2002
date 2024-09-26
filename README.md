@@ -9,8 +9,8 @@
 </div>
 <div id="header1" align="center">
 	
-<!--[![committers.top badge](https://user-badge.committers.top/egypt/EmanGhazy2002.svg)](https://user-badge.committers.top/egypt/EmanGhazy2002) -->
-  <img src="https://komarev.com/ghpvc/?username=EmanGhazy2002&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
+<!--[![committers.top badge](https://user-badge.committers.top/egypt/EmanGhazy-2002.svg)](https://user-badge.committers.top/egypt/EmanGhazy-2002) -->
+  <img src="https://komarev.com/ghpvc/?username=EmanGhazy-2002&style=for-the-badge&color=grey&&label=PROFILE+VIEWS"/>
 </div>
 <div id="view" align="center">
 	
@@ -80,9 +80,9 @@ console.log("Skills:", myProfile.getSkills());
 ### :fire: My Stats :
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmanGhazy2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/EmanGhazy2002?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmanGhazy-2002&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/EmanGhazy-2002?tab=repositories)
 
-[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=EmanGhazy2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-two-zeta-68.vercel.app/api/top-langs/?username=EmanGhazy-2002&bg_color=00000000&border_color=00000000&&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -120,11 +120,11 @@ console.log("Skills:", myProfile.getSkills());
 
 ---
 
- [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=EmanGhazy2002&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=EmanGhazy-2002&theme=onedark&no-bg=true&no-frame=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
 
-### :writing_hand: Blog  : [EmanGhazy2002](https://EmanGhazy2002.github.io/Blog/)
+### :writing_hand: Blog  : [EmanGhazy-2002](https://EmanGhazy-2002.github.io/Blog/)
 
-![snake gif](https://github.com/EmanGhazy2002/EmanGhazy2002/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/EmanGhazy-2002/EmanGhazy-2002/blob/output/github-contribution-grid-snake-dark.svg)
