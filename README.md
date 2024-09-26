@@ -113,7 +113,7 @@ console.log("Skills:", myProfile.getSkills());
 
 </details>
 
----   
+---
 
 <img src="./assets/metrics.plugin.wakatime.svg">
 
